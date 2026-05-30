@@ -1,0 +1,22 @@
+[
+  {"hotel_id": "H001", "name": "Sea View Resort", "city": "Goa", "stars": 4, "price_per_night_inr": 3200, "rating": 4.5, "amenities": ["Pool", "Spa", "Beach Access", "WiFi"], "type": "Resort"},
+  {"hotel_id": "H002", "name": "Goa Marriott Resort", "city": "Goa", "stars": 5, "price_per_night_inr": 7500, "rating": 4.8, "amenities": ["Pool", "Spa", "Beach Access", "WiFi", "Gym", "Bar"], "type": "Luxury"},
+  {"hotel_id": "H003", "name": "Budget Inn Panaji", "city": "Goa", "stars": 2, "price_per_night_inr": 1200, "rating": 3.8, "amenities": ["WiFi", "AC"], "type": "Budget"},
+  {"hotel_id": "H004", "name": "Pousada Tauma", "city": "Goa", "stars": 3, "price_per_night_inr": 2100, "rating": 4.2, "amenities": ["Pool", "WiFi", "Restaurant"], "type": "Boutique"},
+  {"hotel_id": "H005", "name": "The Leela Mumbai", "city": "Mumbai", "stars": 5, "price_per_night_inr": 12000, "rating": 4.9, "amenities": ["Pool", "Spa", "Gym", "Multiple Restaurants", "Bar", "WiFi"], "type": "Luxury"},
+  {"hotel_id": "H006", "name": "Taj Mahal Palace Mumbai", "city": "Mumbai", "stars": 5, "price_per_night_inr": 15000, "rating": 4.9, "amenities": ["Pool", "Spa", "Gym", "Sea View", "WiFi", "Concierge"], "type": "Luxury"},
+  {"hotel_id": "H007", "name": "Ibis Mumbai Airport", "city": "Mumbai", "stars": 3, "price_per_night_inr": 2800, "rating": 4.0, "amenities": ["WiFi", "Restaurant", "Gym"], "type": "Business"},
+  {"hotel_id": "H008", "name": "Hotel Surya Jaipur", "city": "Jaipur", "stars": 3, "price_per_night_inr": 1800, "rating": 3.9, "amenities": ["WiFi", "AC", "Restaurant"], "type": "Standard"},
+  {"hotel_id": "H009", "name": "Rambagh Palace Jaipur", "city": "Jaipur", "stars": 5, "price_per_night_inr": 18000, "rating": 4.9, "amenities": ["Pool", "Spa", "Gym", "Heritage Rooms", "WiFi"], "type": "Heritage Luxury"},
+  {"hotel_id": "H010", "name": "Jai Mahal Palace Jaipur", "city": "Jaipur", "stars": 5, "price_per_night_inr": 9500, "rating": 4.7, "amenities": ["Pool", "Spa", "Garden", "WiFi", "Restaurant"], "type": "Heritage"},
+  {"hotel_id": "H011", "name": "Pearl Regency Jaipur", "city": "Jaipur", "stars": 3, "price_per_night_inr": 2200, "rating": 4.1, "amenities": ["WiFi", "Pool", "Restaurant"], "type": "Standard"},
+  {"hotel_id": "H012", "name": "Kerala Backwater Resort", "city": "Kerala", "stars": 4, "price_per_night_inr": 4500, "rating": 4.6, "amenities": ["Houseboat", "Pool", "Ayurveda Spa", "WiFi"], "type": "Resort"},
+  {"hotel_id": "H013", "name": "Marari Beach Resort", "city": "Kerala", "stars": 5, "price_per_night_inr": 8000, "rating": 4.8, "amenities": ["Beach", "Yoga", "Ayurveda", "Pool", "WiFi"], "type": "Luxury"},
+  {"hotel_id": "H014", "name": "Spice Village Thekkady", "city": "Kerala", "stars": 4, "price_per_night_inr": 5500, "rating": 4.7, "amenities": ["Jungle View", "Spa", "Restaurant", "WiFi"], "type": "Eco-Resort"},
+  {"hotel_id": "H015", "name": "Snow View Hotel Manali", "city": "Manali", "stars": 3, "price_per_night_inr": 2500, "rating": 4.2, "amenities": ["Mountain View", "Fireplace", "Restaurant", "WiFi"], "type": "Standard"},
+  {"hotel_id": "H016", "name": "Span Resort Manali", "city": "Manali", "stars": 5, "price_per_night_inr": 9000, "rating": 4.7, "amenities": ["Riverside", "Pool", "Spa", "Mountain View", "WiFi"], "type": "Luxury"},
+  {"hotel_id": "H017", "name": "Johnson's Hotel Manali", "city": "Manali", "stars": 3, "price_per_night_inr": 1900, "rating": 4.0, "amenities": ["Mountain View", "Garden", "WiFi"], "type": "Budget"},
+  {"hotel_id": "H018", "name": "ITC Agra", "city": "Agra", "stars": 5, "price_per_night_inr": 8500, "rating": 4.8, "amenities": ["Taj View", "Pool", "Spa", "Restaurant", "WiFi"], "type": "Luxury"},
+  {"hotel_id": "H019", "name": "Hotel Amar Agra", "city": "Agra", "stars": 3, "price_per_night_inr": 2300, "rating": 4.0, "amenities": ["Rooftop Restaurant", "WiFi", "AC"], "type": "Standard"},
+  {"hotel_id": "H020", "name": "Trident Hotel Delhi", "city": "Delhi", "stars": 5, "price_per_night_inr": 10000, "rating": 4.8, "amenities": ["Pool", "Spa", "Gym", "Multiple Restaurants", "WiFi"], "type": "Luxury"}
+]
